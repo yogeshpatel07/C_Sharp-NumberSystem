@@ -1,0 +1,18 @@
+F:\My Visual Studio Proj\C#\Win Proj\Number System\Number System\bin\Debug\Number System.exe.config
+F:\My Visual Studio Proj\C#\Win Proj\Number System\Number System\bin\Debug\Number System.exe
+F:\My Visual Studio Proj\C#\Win Proj\Number System\Number System\bin\Debug\Number System.pdb
+F:\My Visual Studio Proj\C#\Win Proj\Number System\Number System\obj\Debug\Number_System.Form1.resources
+F:\My Visual Studio Proj\C#\Win Proj\Number System\Number System\obj\Debug\Number_System.Properties.Resources.resources
+F:\My Visual Studio Proj\C#\Win Proj\Number System\Number System\obj\Debug\Number System.csproj.GenerateResource.Cache
+F:\My Visual Studio Proj\C#\Win Proj\Number System\Number System\obj\Debug\Number System.exe
+F:\My Visual Studio Proj\C#\Win Proj\Number System\Number System\obj\Debug\Number System.pdb
+F:\My Visual Studio Proj\C#\Win Proj\Number System\Number System\obj\Debug\Number System.csprojResolveAssemblyReference.cache
+G:\zyt proj\Win Proj\Number System\Number System\bin\Debug\Number System.exe.config
+G:\zyt proj\Win Proj\Number System\Number System\obj\Debug\Number System.exe
+G:\zyt proj\Win Proj\Number System\Number System\obj\Debug\Number System.pdb
+G:\zyt proj\Win Proj\Number System\Number System\bin\Debug\Number System.exe
+G:\zyt proj\Win Proj\Number System\Number System\bin\Debug\Number System.pdb
+G:\zyt proj\Win Proj\Number System\Number System\obj\Debug\Number System.csprojResolveAssemblyReference.cache
+G:\zyt proj\Win Proj\Number System\Number System\obj\Debug\Number_System.ConvertorFrm.resources
+G:\zyt proj\Win Proj\Number System\Number System\obj\Debug\Number_System.Properties.Resources.resources
+G:\zyt proj\Win Proj\Number System\Number System\obj\Debug\Number System.csproj.GenerateResource.Cache
